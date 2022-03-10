@@ -1,0 +1,12 @@
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\bin\Release\net6.0\MongoDbCosmosApi.deps.json
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\bin\Release\net6.0\MongoDbCosmosApi.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\bin\Release\net6.0\ref\MongoDbCosmosApi.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\bin\Release\net6.0\MongoDbCosmosApi.pdb
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.csproj.AssemblyReference.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.AssemblyInfoInputs.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.AssemblyInfo.cs
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\ref\MongoDbCosmosApi.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi\obj\Release\net6.0\MongoDbCosmosApi.pdb
