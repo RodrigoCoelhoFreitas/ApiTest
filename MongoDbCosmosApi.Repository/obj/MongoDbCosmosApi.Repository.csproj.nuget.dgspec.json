@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi\\MongoDbCosmosApi.csproj": {}
+    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi\\MongoDbCosmosApi.csproj": {
+    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi\\MongoDbCosmosApi.csproj",
-        "projectName": "MongoDbCosmosApi",
-        "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi\\MongoDbCosmosApi.csproj",
+        "projectUniqueName": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
+        "projectName": "MongoDbCosmosApi.Repository",
+        "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
         "packagesPath": "C:\\Users\\rodrigo.freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi\\obj\\",
+        "outputPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
