@@ -10,3 +10,15 @@ C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Domain\obj\R
 C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.dll
 C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\ref\MongoDbCosmosApi.Domain.dll
 C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.pdb
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\bin\Release\net6.0\MongoDbCosmosApi.Domain.deps.json
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\bin\Release\net6.0\MongoDbCosmosApi.Domain.dll
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\bin\Release\net6.0\ref\MongoDbCosmosApi.Domain.dll
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\bin\Release\net6.0\MongoDbCosmosApi.Domain.pdb
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.csproj.AssemblyReference.cache
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.AssemblyInfoInputs.cache
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.AssemblyInfo.cs
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.dll
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\ref\MongoDbCosmosApi.Domain.dll
+C:\Users\kelwyn.fagundes_digi\Desktop\Projeto Rodrigo e kel\ApiTest\MongoDbCosmosApi.Domain\obj\Release\net6.0\MongoDbCosmosApi.Domain.pdb

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/p4ViPMoJkdHmFFVAnQDGKrdMJXbj2X6bem2hgw8ijlWNn6eBNbn99bkdkplHb2l73LC/za41GHUCUucxIrq/w==",
+  "dgSpecHash": "OQmA93VXbcfvq4cKKNMhcroDgcoNPFle3NLnhLyIBXSBZVx8e57xtmvBulMpwuVDyhNBikFKcsGFPadsiVrAfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\polly\\6.1.0\\polly.6.1.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog.sinks.rollingfile.extension\\2.0.2\\serilog.sinks.rollingfile.extension.2.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

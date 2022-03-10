@@ -1,9 +1,4 @@
 ﻿using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MongoDbCosmosApi.Repository.Context
 {
@@ -25,11 +20,11 @@ namespace MongoDbCosmosApi.Repository.Context
         {
             return mongoClient.GetDatabase(databaseName);
         }
+
         public IMongoDatabase GetDatabase(string databaseName)
         {
             var mongoDbClient = GetClient();
             return mongoDbClient.GetDatabase(databaseName);
         }
-
     }
 }

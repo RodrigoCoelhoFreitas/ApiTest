@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "dn9Y3wKPxkpVFwXJCmUKfxOkwkRaFmhTgpysDLwmSDARLGwlAieQYb5xEgWLAr9i/yeWISBbk0TkAcBDWrOjJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\MongoDBCosmosDBApi.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\mongodb.bson\\2.15.0\\mongodb.bson.2.15.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\mongodb.driver\\2.15.0\\mongodb.driver.2.15.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\mongodb.driver.core\\2.15.0\\mongodb.driver.core.2.15.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\polly\\6.1.0\\polly.6.1.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\serilog.sinks.rollingfile.extension\\2.0.2\\serilog.sinks.rollingfile.extension.2.0.2.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

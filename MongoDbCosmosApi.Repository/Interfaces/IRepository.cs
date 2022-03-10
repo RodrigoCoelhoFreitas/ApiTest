@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MongoDbCosmosApi.Repository.Interfaces
+﻿namespace MongoDbCosmosApi.Repository.Interfaces
 {
     public interface IRepository<T>
     {
+        public IQueryable<T> QueryAll();
 
+        public T Query(Guid key);
     }
 }

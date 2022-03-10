@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\MongoDBCosmosDBApi.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
+        "projectName": "MongoDbCosmosApi.Domain",
+        "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kelwyn.fagundes_digi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile.Extension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
+        "projectName": "MongoDbCosmosApi.Repository",
+        "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kelwyn.fagundes_digi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile.Extension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\MongoDBCosmosDBApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\MongoDBCosmosDBApi.Services.csproj",
+        "projectName": "MongoDBCosmosDBApi.Services",
+        "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\MongoDBCosmosDBApi.Services.csproj",
+        "packagesPath": "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDBCosmosDBApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kelwyn.fagundes_digi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj"
+              },
+              "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {
+                "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile.Extension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

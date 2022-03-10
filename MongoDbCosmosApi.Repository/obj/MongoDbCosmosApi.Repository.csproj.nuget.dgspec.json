@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {}
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
         "projectName": "MongoDbCosmosApi.Domain",
-        "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
-        "packagesPath": "C:\\Users\\rodrigo.freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\obj\\",
+        "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rodrigo.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kelwyn.fagundes_digi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile.Extension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,26 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {
+    "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
         "projectName": "MongoDbCosmosApi.Repository",
-        "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
-        "packagesPath": "C:\\Users\\rodrigo.freitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Repository\\obj\\",
+        "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\MongoDbCosmosApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\kelwyn.fagundes_digi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rodrigo.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kelwyn.fagundes_digi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj"
+              "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\kelwyn.fagundes_digi\\Desktop\\Projeto Rodrigo e kel\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj"
               }
             }
           }
@@ -111,6 +111,14 @@
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.15.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile.Extension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             }
           },
           "imports": [
@@ -128,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

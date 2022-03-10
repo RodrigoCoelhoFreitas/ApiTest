@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15326021-fddc-441a-851a-2b7982521884": {
+      "ProjectGuid": "15326021-fddc-441a-851a-2b7982521884",
+      "DisplayName": "MongoDbCosmosApi.Repository",
+      "ColorIndex": 0
+    },
+    "6490bd3f-76fa-4156-9cb9-2d28d27d1a50": {
+      "ProjectGuid": "6490bd3f-76fa-4156-9cb9-2d28d27d1a50",
+      "DisplayName": "MongoDbCosmosApi.Domain",
+      "ColorIndex": 1
+    },
+    "9da653ef-3700-44b5-8bef-20f7c4240a75": {
+      "ProjectGuid": "9da653ef-3700-44b5-8bef-20f7c4240a75",
+      "DisplayName": "MongoDBCosmosDBApi.Services",
+      "ColorIndex": 2
+    },
+    "34c99e9d-a2e9-4e5c-a0b4-4c4242e9e8ca": {
+      "ProjectGuid": "34c99e9d-a2e9-4e5c-a0b4-4c4242e9e8ca",
+      "DisplayName": "MongoDbCosmosApi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
