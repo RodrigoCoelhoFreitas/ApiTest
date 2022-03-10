@@ -1,0 +1,15 @@
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\MongoDbCosmosApi.Repository.deps.json
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\MongoDbCosmosApi.Repository.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\ref\MongoDbCosmosApi.Repository.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\MongoDbCosmosApi.Repository.pdb
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.csproj.AssemblyReference.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.AssemblyInfoInputs.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.AssemblyInfo.cs
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\ref\MongoDbCosmosApi.Repository.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.pdb
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\MongoDbCosmosApi.Domain.dll
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\bin\Release\net6.0\MongoDbCosmosApi.Domain.pdb
+C:\Users\rodrigo.freitas\Documents\ApiTest\ApiTest\MongoDbCosmosApi.Repository\obj\Release\net6.0\MongoDbCosmosApi.Repository.csproj.CopyComplete

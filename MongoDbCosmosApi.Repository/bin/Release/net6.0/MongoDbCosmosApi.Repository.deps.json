@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MongoDbCosmosApi.Repository/1.0.0": {
+        "dependencies": {
+          "MongoDbCosmosApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MongoDbCosmosApi.Repository.dll": {}
+        }
+      },
+      "MongoDbCosmosApi.Domain/1.0.0": {
+        "runtime": {
+          "MongoDbCosmosApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MongoDbCosmosApi.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MongoDbCosmosApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

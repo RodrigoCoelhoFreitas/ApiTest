@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MongoDbCosmosApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MongoDbCosmosApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MongoDbCosmosApi.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MongoDbCosmosApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MongoDbCosmosApi.Domain/MongoDbCosmosApi.Domain.csproj",
+      "msbuildProject": "../MongoDbCosmosApi.Domain/MongoDbCosmosApi.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MongoDbCosmosApi.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rodrigo.freitas\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\rodrigo.freitas\\Documents\\ApiTest\\ApiTest\\MongoDbCosmosApi.Domain\\MongoDbCosmosApi.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
